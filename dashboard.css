@@ -1,0 +1,104 @@
+.navigation{
+    background-color: rgb(25, 158, 25);
+    height: fit-content;
+    text-align: right;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding: 10px;
+    
+}
+.content {
+    width: 100%;
+    margin: auto;
+    
+    border: 1px solid #B0C4DE;
+    background: white;
+    border-radius: 0px 0px 10px 10px;
+  }
+.orders{
+      
+    text-align: center;
+}
+
+
+.bg{
+    color: black;
+    margin-right: auto;
+}
+.container{
+    width: 560px;
+    height: 500px;
+    margin: auto;
+    
+    padding: 40px;
+    
+    border-radius: 5px;
+    box-shadow:3px 4px 5px 6px rgb(105, 102, 102);
+    
+    
+}
+h1,h2 {
+    text-align: center;
+    color: rgb(34, 36, 36);
+
+}
+.login{
+    margin-top: 50px;
+    text-align: center;
+    padding: 20px;
+}
+
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+.login-b {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    width: 4cm;
+    
+    border: none;
+    cursor: pointer;
+    
+  }
+  .orders{
+      
+      text-align: center;
+  }
+  .buttons{
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    width: 4cm;
+    margin-top: 20px;
+    padding-left: auto;
+    
+    
+    
+    border: none;
+    cursor: pointer;
+  }
+button:hover {
+    opacity: 0.8;
+  }
+footer{
+    background-color: #4CAF50;
+    text-align: center;
+    min-height: fit-content;
+    padding-top: 20px;
+    padding-bottom:20px ;
+    margin-top: 40px;
+}
+.scheduled{
+  margin: auto;
+  padding-left: auto;
+  padding: auto;
+}

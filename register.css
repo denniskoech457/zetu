@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+}
+.input-group{
+    text-align: center;
+}
+.sign-up{
+    width: 70%;
+    height: 100%;
+    margin: auto;
+    
+    
+    padding: 40px;
+    
+    border-radius: 5px;
+    box-shadow:3px 4px 5px 6px rgb(105, 102, 102);
+}
+.account{
+    text-align: center;
+}
+.login-b {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    width: 4cm;
+    
+    border: none;
+    cursor: pointer;
+    
+  }
+
+
+ .register{
+    margin-top: px;
+    text-align: center;
+    padding: 20px;
+ }
+ input[type=text], input[type=password], input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
